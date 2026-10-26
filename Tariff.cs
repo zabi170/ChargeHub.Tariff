@@ -1,5 +1,5 @@
 
 public static class Tariff
 {
-    public static decimal AcPrice() => 3.50m;
+    public static decimal AcPrice() => 3.80m;
 }
